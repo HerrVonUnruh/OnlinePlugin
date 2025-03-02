@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\MenuSystem.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\MenuSystem.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\MenuSystemEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <None Include="..\..\MakeNewUnrealProjectAndPluginReset.bat" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Plugins">
+      <UniqueIdentifier>{BB38096A-B391-30DC-A0D4-4F3EA6B44507}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MultiplayerSessionsMyPluginUE55">
+      <UniqueIdentifier>{43B68833-1926-31AA-9F3F-B28E7D30CBD7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MultiplayerSessionsMyPluginUE55\Source">
+      <UniqueIdentifier>{C376B978-1630-3E04-8EE1-DE85A9328C42}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55">
+      <UniqueIdentifier>{0C663949-DBA5-327A-A0C2-5AE9BFBC3F49}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55\MultiplayerSessionsMyPluginUE55.Build.cs">
+      <Filter>Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55</Filter>
+    </None>
+    <Filter Include="Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55\Private">
+      <UniqueIdentifier>{ACF90901-587B-37CF-800C-3979F36E54CF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55\Private\Menu.cpp">
+      <Filter>Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55\Private\MultiplayerSessionsMyPluginUE55.cpp">
+      <Filter>Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55\Private\MultiplayerSessionsSubsystem.cpp">
+      <Filter>Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55\Private</Filter>
+    </ClCompile>
+    <Filter Include="Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55\Public">
+      <UniqueIdentifier>{B8C26607-16B0-3CFA-8D38-CF4F7BE2475A}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55\Public\Menu.h">
+      <Filter>Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55\Public\MultiplayerSessionsMyPluginUE55.h">
+      <Filter>Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55\Public</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55\Public\MultiplayerSessionsSubsystem.h">
+      <Filter>Plugins\MultiplayerSessionsMyPluginUE55\Source\MultiplayerSessionsMyPluginUE55\Public</Filter>
+    </ClCompile>
+    <None Include="..\..\Plugins\MultiplayerSessionsMyPluginUE55\MultiplayerSessionsMyPluginUE55.uplugin">
+      <Filter>Plugins\MultiplayerSessionsMyPluginUE55</Filter>
+    </None>
+    <Filter Include="Plugins\MultiplayerSessionsMyPluginUE55\Resources">
+      <UniqueIdentifier>{72E75837-3392-304B-950E-096D650DA02C}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Plugins\MultiplayerSessionsMyPluginUE55\Resources\Icon128.png">
+      <Filter>Plugins\MultiplayerSessionsMyPluginUE55\Resources</Filter>
+    </None>
+    <Filter Include="Source\MenuSystem">
+      <UniqueIdentifier>{76995420-26DF-3107-ACA4-A59A13E7D0DF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\MenuSystem\GM_LobbyGameMode.cpp">
+      <Filter>Source\MenuSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MenuSystem\GM_LobbyGameMode.h">
+      <Filter>Source\MenuSystem</Filter>
+    </ClCompile>
+    <None Include="..\..\Source\MenuSystem\MenuSystem.Build.cs">
+      <Filter>Source\MenuSystem</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\MenuSystem\MenuSystem.cpp">
+      <Filter>Source\MenuSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MenuSystem\MenuSystem.h">
+      <Filter>Source\MenuSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MenuSystem\MenuSystemCharacter.cpp">
+      <Filter>Source\MenuSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MenuSystem\MenuSystemCharacter.h">
+      <Filter>Source\MenuSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MenuSystem\MenuSystemGameMode.cpp">
+      <Filter>Source\MenuSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\MenuSystem\MenuSystemGameMode.h">
+      <Filter>Source\MenuSystem</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

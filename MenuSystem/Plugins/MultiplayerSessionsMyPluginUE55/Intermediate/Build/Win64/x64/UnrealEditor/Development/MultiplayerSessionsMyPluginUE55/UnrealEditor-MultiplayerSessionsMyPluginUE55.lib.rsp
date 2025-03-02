@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MultiplayerSessionsMyPluginUE55.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\robin\Desktop\OnlinePlugin\MenuSystem\Intermediate\Build\Win64\x64\MenuSystemEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\robin\Desktop\OnlinePlugin\MenuSystem\Plugins\MultiplayerSessionsMyPluginUE55\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessionsMyPluginUE55\Module.MultiplayerSessionsMyPluginUE55.cpp.obj"
+"C:\Users\robin\Desktop\OnlinePlugin\MenuSystem\Plugins\MultiplayerSessionsMyPluginUE55\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessionsMyPluginUE55\Default.rc2.res"
+/OUT:"C:\Users\robin\Desktop\OnlinePlugin\MenuSystem\Plugins\MultiplayerSessionsMyPluginUE55\Intermediate\Build\Win64\x64\UnrealEditor\Development\MultiplayerSessionsMyPluginUE55\UnrealEditor-MultiplayerSessionsMyPluginUE55.lib"

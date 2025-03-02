@@ -1,0 +1,9 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\robin\\Desktop\\OnlinePlugin\\MenuSystem\\Source\\MenuSystem\\MenuSystem.Build.cs",
+		"C:\\Users\\robin\\Desktop\\OnlinePlugin\\MenuSystem\\Plugins\\MultiplayerSessionsMyPluginUE55\\Source\\MultiplayerSessionsMyPluginUE55\\MultiplayerSessionsMyPluginUE55.Build.cs",
+		"C:\\Users\\robin\\Desktop\\OnlinePlugin\\MenuSystem\\Source\\MenuSystem.Target.cs",
+		"C:\\Users\\robin\\Desktop\\OnlinePlugin\\MenuSystem\\Source\\MenuSystemEditor.Target.cs"
+	],
+	"EngineVersion": "5.5.3"
+}
